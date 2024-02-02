@@ -1260,20 +1260,17 @@
   (junction (at 106.68 151.765) (diameter 0) (color 0 0 0 0)
     (uuid 0813d7fb-92e1-46a7-9888-1c5c1636b49f)
   )
+  (junction (at 194.945 247.015) (diameter 0) (color 0 0 0 0)
+    (uuid 09526a81-699d-4da3-9e4d-574742631bc8)
+  )
   (junction (at 110.49 59.69) (diameter 0) (color 0 0 0 0)
     (uuid 09cdae93-573a-4ded-b39b-a8b2fe4bd21c)
-  )
-  (junction (at 329.565 34.29) (diameter 0) (color 0 0 0 0)
-    (uuid 0cf8c87b-1599-43c8-a2db-72a85b3b6df7)
   )
   (junction (at 107.315 184.785) (diameter 0) (color 0 0 0 0)
     (uuid 0d9ff5c9-5166-4ff3-86bf-4340cd6ee67a)
   )
   (junction (at 110.49 151.765) (diameter 0) (color 0 0 0 0)
     (uuid 0e4ae8ff-7e60-421f-bb71-9847e3f0b971)
-  )
-  (junction (at 219.71 261.62) (diameter 0) (color 0 0 0 0)
-    (uuid 116e4c1d-3364-4f2f-821a-38798a957ba1)
   )
   (junction (at 341.63 176.53) (diameter 0) (color 0 0 0 0)
     (uuid 121f5048-4b3f-4c33-b0dd-bf4b2df83a3d)
@@ -1293,10 +1290,16 @@
   (junction (at 326.39 173.99) (diameter 0) (color 0 0 0 0)
     (uuid 1720003b-bd3b-4d05-99a8-d2600f81e598)
   )
+  (junction (at 339.09 34.29) (diameter 0) (color 0 0 0 0)
+    (uuid 186d4863-78c8-44d7-a58c-db3635783d58)
+  )
   (junction (at 110.49 52.07) (diameter 0) (color 0 0 0 0)
     (uuid 18cdc331-7ade-4712-abcd-6073f06e82d1)
   )
-  (junction (at 195.58 261.62) (diameter 0) (color 0 0 0 0)
+  (junction (at 200.66 262.255) (diameter 0) (color 0 0 0 0)
+    (uuid 1d654982-6ea6-4f51-b3cf-cfe4df904715)
+  )
+  (junction (at 188.595 262.255) (diameter 0) (color 0 0 0 0)
     (uuid 1e0aa225-350f-4676-bf65-ac77c9caeb9f)
   )
   (junction (at 326.39 168.91) (diameter 0) (color 0 0 0 0)
@@ -1308,8 +1311,14 @@
   (junction (at 191.77 194.945) (diameter 0) (color 0 0 0 0)
     (uuid 211c5385-0448-4d71-b571-1d1a90838de7)
   )
+  (junction (at 221.615 262.255) (diameter 0) (color 0 0 0 0)
+    (uuid 24ecfe9d-9b2d-4d1a-99f3-90dbd6fcd1bc)
+  )
   (junction (at 44.45 274.32) (diameter 0) (color 0 0 0 0)
     (uuid 2fac93fe-0c7e-4175-b6d8-33865ffc750f)
+  )
+  (junction (at 173.99 262.255) (diameter 0) (color 0 0 0 0)
+    (uuid 30efb797-9dcc-4601-a13c-1eabef6e27c5)
   )
   (junction (at 176.53 142.875) (diameter 0) (color 0 0 0 0)
     (uuid 388ca431-fa04-4611-86d1-a0d0d34ad709)
@@ -1323,11 +1332,17 @@
   (junction (at 110.49 144.145) (diameter 0) (color 0 0 0 0)
     (uuid 45ae92ec-c9ee-463e-9014-a36a6fba57f1)
   )
-  (junction (at 190.5 261.62) (diameter 0) (color 0 0 0 0)
+  (junction (at 205.74 262.255) (diameter 0) (color 0 0 0 0)
+    (uuid 476e12d7-862a-4a38-8cc1-62e4ddc1216d)
+  )
+  (junction (at 183.515 262.255) (diameter 0) (color 0 0 0 0)
     (uuid 48804779-3516-47a2-a6a8-dcb54cea503c)
   )
   (junction (at 288.29 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 4b7f6647-b85c-4fea-918f-8707d2cf93e2)
+  )
+  (junction (at 355.6 36.83) (diameter 0) (color 0 0 0 0)
+    (uuid 4d2f254a-af1b-45ae-86c3-3cc008af7c11)
   )
   (junction (at 303.53 158.75) (diameter 0) (color 0 0 0 0)
     (uuid 4ece5e53-65f7-4125-8a20-42b62b99cd4a)
@@ -1350,14 +1365,14 @@
   (junction (at 314.325 26.67) (diameter 0) (color 0 0 0 0)
     (uuid 5b76f6a0-fb17-4338-b302-35e6510ff1db)
   )
-  (junction (at 281.305 257.175) (diameter 0) (color 0 0 0 0)
+  (junction (at 278.765 246.38) (diameter 0) (color 0 0 0 0)
     (uuid 5e160fb2-c020-4298-8472-da2fd2e828ae)
+  )
+  (junction (at 221.615 247.015) (diameter 0) (color 0 0 0 0)
+    (uuid 5ff33e1e-56f8-477f-be4e-62ec138df6db)
   )
   (junction (at 341.63 168.91) (diameter 0) (color 0 0 0 0)
     (uuid 6051f170-d60d-4369-9c78-011bb82ac536)
-  )
-  (junction (at 314.325 31.75) (diameter 0) (color 0 0 0 0)
-    (uuid 61ddba56-a1a2-4acd-b49e-4b2fe76f69bf)
   )
   (junction (at 128.27 62.23) (diameter 0) (color 0 0 0 0)
     (uuid 6339dd1c-d4ac-4f42-8d24-6a5cec4fe3f0)
@@ -1365,13 +1380,13 @@
   (junction (at 191.77 98.425) (diameter 0) (color 0 0 0 0)
     (uuid 6861a4b3-c097-4ae4-81b6-8656ebe4cc54)
   )
+  (junction (at 216.535 247.015) (diameter 0) (color 0 0 0 0)
+    (uuid 68fd7950-2f62-49c9-8e7e-1bb597ab677a)
+  )
   (junction (at 172.72 64.77) (diameter 0) (color 0 0 0 0)
     (uuid 6ba8ba05-1e27-40e2-a0eb-3a2626b72c36)
   )
-  (junction (at 219.71 246.38) (diameter 0) (color 0 0 0 0)
-    (uuid 72cfc6de-45d3-421d-9f8e-e8e0bb8d72a7)
-  )
-  (junction (at 190.5 246.38) (diameter 0) (color 0 0 0 0)
+  (junction (at 183.515 247.015) (diameter 0) (color 0 0 0 0)
     (uuid 7304dab7-5023-4ea7-a283-61e9530be68a)
   )
   (junction (at 200.66 50.8) (diameter 0) (color 0 0 0 0)
@@ -1383,14 +1398,8 @@
   (junction (at 125.73 62.23) (diameter 0) (color 0 0 0 0)
     (uuid 79c4edb6-2049-479d-a84c-45a7104467b8)
   )
-  (junction (at 238.76 261.62) (diameter 0) (color 0 0 0 0)
-    (uuid 7b2a9f74-4cb0-4216-a2c0-11ba47b074b3)
-  )
   (junction (at 67.31 264.16) (diameter 0) (color 0 0 0 0)
     (uuid 7b9294d1-0ad4-4a28-bb08-de73e678f795)
-  )
-  (junction (at 214.63 246.38) (diameter 0) (color 0 0 0 0)
-    (uuid 7cfdc36d-9841-4da5-b7f3-3f94ce9de325)
   )
   (junction (at 304.8 73.66) (diameter 0) (color 0 0 0 0)
     (uuid 807193c5-7bb5-4575-8c5e-d2b5ed8fbe8b)
@@ -1400,9 +1409,6 @@
   )
   (junction (at 125.73 52.07) (diameter 0) (color 0 0 0 0)
     (uuid 85c2b7a6-57f1-46fb-bcac-d76a1573cc60)
-  )
-  (junction (at 173.355 246.38) (diameter 0) (color 0 0 0 0)
-    (uuid 870114a0-fb11-472f-a98d-fd35c1100abe)
   )
   (junction (at 144.78 245.11) (diameter 0) (color 0 0 0 0)
     (uuid 8951ebcc-e0d8-4ef1-a4d2-9e2abf038584)
@@ -1416,23 +1422,26 @@
   (junction (at 69.85 248.92) (diameter 0) (color 0 0 0 0)
     (uuid 8fcb5651-7dae-40bf-95d1-ffa124d05b84)
   )
-  (junction (at 195.58 246.38) (diameter 0) (color 0 0 0 0)
+  (junction (at 188.595 247.015) (diameter 0) (color 0 0 0 0)
     (uuid 92a2b142-8381-4652-af7e-c7a6235ba9c1)
   )
   (junction (at 173.99 194.945) (diameter 0) (color 0 0 0 0)
     (uuid 944837f8-a7f8-4c87-83ac-c226cbbf7b2d)
   )
-  (junction (at 214.63 261.62) (diameter 0) (color 0 0 0 0)
-    (uuid 97811e85-71bc-4386-921c-e73a85592b53)
-  )
   (junction (at 153.67 245.11) (diameter 0) (color 0 0 0 0)
     (uuid 993aaf56-a996-4c08-ac64-e85c38df65eb)
+  )
+  (junction (at 314.325 31.75) (diameter 0) (color 0 0 0 0)
+    (uuid 9bf19d33-87b6-42d9-a141-6da0a0d0dbbf)
   )
   (junction (at 106.68 59.69) (diameter 0) (color 0 0 0 0)
     (uuid 9bfbac52-46c0-4996-95ef-6a0384debeab)
   )
   (junction (at 342.9 83.82) (diameter 0) (color 0 0 0 0)
     (uuid 9d036ce0-6a96-46ea-a668-46265895f1d2)
+  )
+  (junction (at 194.945 262.255) (diameter 0) (color 0 0 0 0)
+    (uuid 9fdc8d07-017a-4aad-b3a7-1855936ced3a)
   )
   (junction (at 327.66 83.82) (diameter 0) (color 0 0 0 0)
     (uuid a1156426-7dda-4bd4-8fd5-a9f3b220fc7c)
@@ -1464,6 +1473,9 @@
   (junction (at 90.17 266.7) (diameter 0) (color 0 0 0 0)
     (uuid aff4323c-df58-450b-9807-d08e01f18809)
   )
+  (junction (at 231.775 247.015) (diameter 0) (color 0 0 0 0)
+    (uuid b4004c51-f291-45c6-8c40-922eaadfb926)
+  )
   (junction (at 173.99 102.87) (diameter 0) (color 0 0 0 0)
     (uuid b5191e99-644c-4273-8cc6-64d7d64a5184)
   )
@@ -1472,6 +1484,9 @@
   )
   (junction (at 137.16 76.2) (diameter 0) (color 0 0 0 0)
     (uuid b814ac0b-67cc-4f57-bdc7-55c2157a8280)
+  )
+  (junction (at 329.565 34.29) (diameter 0) (color 0 0 0 0)
+    (uuid b946cbbb-be85-45ce-be32-ecfaee974c05)
   )
   (junction (at 172.72 156.845) (diameter 0) (color 0 0 0 0)
     (uuid be048bbd-6fae-42d6-b0dd-cb60adf7996e)
@@ -1482,11 +1497,17 @@
   (junction (at 118.11 245.11) (diameter 0) (color 0 0 0 0)
     (uuid bff1e87c-9085-4ec4-adea-15ea33db0057)
   )
-  (junction (at 238.76 246.38) (diameter 0) (color 0 0 0 0)
-    (uuid c7062803-97a9-48f6-a905-f47823795a5f)
+  (junction (at 231.775 262.255) (diameter 0) (color 0 0 0 0)
+    (uuid c0a6e979-eef7-4f72-b6c2-50312bde5790)
   )
   (junction (at 176.53 156.845) (diameter 0) (color 0 0 0 0)
     (uuid c9707b4b-aecc-40f8-b883-eb5bdbd7daa3)
+  )
+  (junction (at 173.99 247.015) (diameter 0) (color 0 0 0 0)
+    (uuid cc29ac3d-729f-4847-b555-250d8f1b83f0)
+  )
+  (junction (at 205.74 247.015) (diameter 0) (color 0 0 0 0)
+    (uuid cc3f9190-4f43-45d5-964f-9b6b64537cad)
   )
   (junction (at 135.89 254) (diameter 0) (color 0 0 0 0)
     (uuid d085a76d-9339-471d-99e6-1e7ef6d87e90)
@@ -1500,7 +1521,7 @@
   (junction (at 90.17 259.08) (diameter 0) (color 0 0 0 0)
     (uuid d6ce862a-5664-423c-9e2c-19b676604794)
   )
-  (junction (at 285.115 257.175) (diameter 0) (color 0 0 0 0)
+  (junction (at 282.575 246.38) (diameter 0) (color 0 0 0 0)
     (uuid d7a38ad4-38e9-4541-968f-75c76170c43c)
   )
   (junction (at 327.66 88.9) (diameter 0) (color 0 0 0 0)
@@ -1509,14 +1530,14 @@
   (junction (at 69.85 259.08) (diameter 0) (color 0 0 0 0)
     (uuid dfadc2a7-1ed0-4aea-baf7-b6971f1c6408)
   )
+  (junction (at 216.535 262.255) (diameter 0) (color 0 0 0 0)
+    (uuid e0199672-1f84-40ac-9c80-a4acbc131c27)
+  )
   (junction (at 329.565 26.67) (diameter 0) (color 0 0 0 0)
     (uuid e0907e47-6eb3-43be-967a-d46e403e9c77)
   )
   (junction (at 137.16 154.305) (diameter 0) (color 0 0 0 0)
     (uuid e55db351-c8de-44a3-a11a-37d46d276649)
-  )
-  (junction (at 173.355 261.62) (diameter 0) (color 0 0 0 0)
-    (uuid e8b91973-6625-4796-a505-e52eb17abadb)
   )
   (junction (at 44.45 264.16) (diameter 0) (color 0 0 0 0)
     (uuid eeb07e30-e8ed-40c7-95ca-0c74ef5d71e3)
@@ -1542,11 +1563,14 @@
   (junction (at 191.77 102.87) (diameter 0) (color 0 0 0 0)
     (uuid fdbbb9a5-8dff-4ad0-85ba-8406ec724c0b)
   )
+  (junction (at 200.66 247.015) (diameter 0) (color 0 0 0 0)
+    (uuid ffb613c9-57b9-4f50-8964-c990ff497ea0)
+  )
 
   (no_connect (at 369.57 88.9) (uuid 14727b27-0aaa-462e-902d-42a6ace99737))
   (no_connect (at 67.31 256.54) (uuid 2991f883-e359-4992-87cd-2d6071aab1e5))
   (no_connect (at 69.85 53.34) (uuid 2b6a38db-1ca8-44ac-9019-cc4952b5d6ff))
-  (no_connect (at 337.185 31.75) (uuid 37cdf53b-bff5-41b9-b74f-c60847157684))
+  (no_connect (at 363.855 34.29) (uuid 37cdf53b-bff5-41b9-b74f-c60847157684))
   (no_connect (at 368.3 173.99) (uuid 53e4fc83-5055-4795-832e-ae718de2fe03))
   (no_connect (at 67.31 251.46) (uuid 8878fdb3-2d70-4f07-aa91-19e5a3e3e281))
   (no_connect (at 264.16 86.36) (uuid 9ae5be50-ff3c-475d-956b-8038744af746))
@@ -1579,6 +1603,10 @@
     (stroke (width 0) (type default))
     (uuid 033be488-962d-4b0c-a1c1-03999b3390f4)
   )
+  (wire (pts (xy 281.305 281.305) (xy 281.305 274.955))
+    (stroke (width 0) (type default))
+    (uuid 03800437-6ff4-400e-a5ee-13d27ebbd2bf)
+  )
   (wire (pts (xy 325.755 26.67) (xy 329.565 26.67))
     (stroke (width 0) (type default))
     (uuid 0394533f-8267-45cb-83ab-d7b2e51e00d2)
@@ -1599,7 +1627,7 @@
     (stroke (width 0) (type default))
     (uuid 068d3df7-87af-4f26-80de-22cfecc4fc02)
   )
-  (wire (pts (xy 219.71 246.38) (xy 238.76 246.38))
+  (wire (pts (xy 200.66 247.015) (xy 205.74 247.015))
     (stroke (width 0) (type default))
     (uuid 06e4b9c5-40b2-4522-8ec5-25a67034ef99)
   )
@@ -1611,7 +1639,7 @@
     (stroke (width 0) (type default))
     (uuid 07497524-6231-4816-bb5f-db92491b3d9a)
   )
-  (wire (pts (xy 285.115 248.285) (xy 285.115 257.175))
+  (wire (pts (xy 282.575 237.49) (xy 282.575 246.38))
     (stroke (width 0) (type default))
     (uuid 08adbddd-6b1e-48cf-888e-83f06fdca88c)
   )
@@ -1630,6 +1658,10 @@
   (wire (pts (xy 173.99 194.945) (xy 179.705 194.945))
     (stroke (width 0) (type default))
     (uuid 0c43d214-d0e5-498c-8c3f-f9734b333caf)
+  )
+  (wire (pts (xy 231.775 262.255) (xy 231.775 258.445))
+    (stroke (width 0) (type default))
+    (uuid 109889ee-497b-4ba6-bb6d-abb7e0854af8)
   )
   (wire (pts (xy 107.315 180.34) (xy 111.125 180.34))
     (stroke (width 0) (type default))
@@ -1655,7 +1687,11 @@
     (stroke (width 0) (type default))
     (uuid 152a47c1-0247-4f54-b395-5482b922edc0)
   )
-  (wire (pts (xy 190.5 250.19) (xy 190.5 246.38))
+  (wire (pts (xy 261.62 272.415) (xy 261.62 273.05))
+    (stroke (width 0) (type default))
+    (uuid 1583ab10-71e4-4761-955b-930e5848b639)
+  )
+  (wire (pts (xy 183.515 250.825) (xy 183.515 247.015))
     (stroke (width 0) (type default))
     (uuid 1683366a-cb73-48ed-8401-36efe303f1d7)
   )
@@ -1675,6 +1711,10 @@
     (stroke (width 0) (type default))
     (uuid 17b811f8-6175-41b6-a51d-89c560069c11)
   )
+  (wire (pts (xy 231.775 247.015) (xy 231.775 250.825))
+    (stroke (width 0) (type default))
+    (uuid 17f33d61-e7d0-4fbe-8d68-a2a2a1aa0c11)
+  )
   (wire (pts (xy 191.77 90.805) (xy 191.77 90.17))
     (stroke (width 0) (type default))
     (uuid 187e6102-569a-4e38-9d1c-e2d41ab84671)
@@ -1683,7 +1723,7 @@
     (stroke (width 0) (type default))
     (uuid 18d6f4d0-6fa0-4ab2-812d-2e88e056e4f1)
   )
-  (wire (pts (xy 281.305 264.16) (xy 281.305 257.175))
+  (wire (pts (xy 278.765 253.365) (xy 278.765 246.38))
     (stroke (width 0) (type default))
     (uuid 1b70435e-b6cf-47a5-8366-ebec41024333)
   )
@@ -1703,7 +1743,7 @@
     (stroke (width 0) (type default))
     (uuid 23b658a8-c788-4afd-b6d9-709c9a823c75)
   )
-  (wire (pts (xy 259.08 250.825) (xy 259.08 246.38))
+  (wire (pts (xy 256.54 240.03) (xy 256.54 235.585))
     (stroke (width 0) (type default))
     (uuid 23e896a3-56a3-41f9-9acc-d0b4bc465d9a)
   )
@@ -1715,13 +1755,13 @@
     (stroke (width 0) (type default))
     (uuid 24983800-7cb3-41d9-b93d-6e838438a28d)
   )
-  (wire (pts (xy 195.58 261.62) (xy 214.63 261.62))
-    (stroke (width 0) (type default))
-    (uuid 25a509c3-a6a1-44e1-b263-e92af8a95762)
-  )
-  (wire (pts (xy 190.5 261.62) (xy 195.58 261.62))
+  (wire (pts (xy 183.515 262.255) (xy 188.595 262.255))
     (stroke (width 0) (type default))
     (uuid 267d6b93-0d97-40db-9585-c9448347fb39)
+  )
+  (wire (pts (xy 205.74 247.015) (xy 216.535 247.015))
+    (stroke (width 0) (type default))
+    (uuid 270ef805-394e-4fcb-b44a-8af01b73bcae)
   )
   (wire (pts (xy 187.325 194.945) (xy 191.77 194.945))
     (stroke (width 0) (type default))
@@ -1743,15 +1783,11 @@
     (stroke (width 0) (type default))
     (uuid 2ce6c850-221f-43ea-91f6-39b1a7d78d03)
   )
-  (wire (pts (xy 168.275 261.62) (xy 173.355 261.62))
-    (stroke (width 0) (type default))
-    (uuid 2cf50e68-3014-47f2-9c7c-1d8566f6d5e2)
-  )
   (wire (pts (xy 156.21 154.305) (xy 156.21 156.845))
     (stroke (width 0) (type default))
     (uuid 2cfd027e-757c-4049-80c2-ca953ed6eb7d)
   )
-  (wire (pts (xy 214.63 261.62) (xy 214.63 257.81))
+  (wire (pts (xy 200.66 262.255) (xy 200.66 258.445))
     (stroke (width 0) (type default))
     (uuid 2d7592f7-fb97-4755-a87e-cc908690575e)
   )
@@ -1766,6 +1802,10 @@
   (wire (pts (xy 140.97 160.655) (xy 142.24 160.655))
     (stroke (width 0) (type default))
     (uuid 2e6d9b1d-fd91-499c-b578-19fdd0155827)
+  )
+  (wire (pts (xy 194.945 262.255) (xy 188.595 262.255))
+    (stroke (width 0) (type default))
+    (uuid 302d395c-3227-42b4-a308-f01bc6a89ef7)
   )
   (wire (pts (xy 176.53 85.725) (xy 173.99 85.725))
     (stroke (width 0) (type default))
@@ -1782,6 +1822,10 @@
   (wire (pts (xy 322.58 88.9) (xy 327.66 88.9))
     (stroke (width 0) (type default))
     (uuid 33577192-280b-4db6-8d11-a1e89da96a9e)
+  )
+  (wire (pts (xy 231.775 247.015) (xy 236.855 247.015))
+    (stroke (width 0) (type default))
+    (uuid 345da286-e3ce-411c-a4a0-ff7ee586b439)
   )
   (wire (pts (xy 176.53 136.525) (xy 176.53 142.875))
     (stroke (width 0) (type default))
@@ -1896,6 +1940,10 @@
     (stroke (width 0) (type default))
     (uuid 4b30bde7-fb6e-4772-a45a-c8f98829c61b)
   )
+  (wire (pts (xy 173.99 262.255) (xy 183.515 262.255))
+    (stroke (width 0) (type default))
+    (uuid 4d410865-4e13-4bdd-80ff-0bc6390fa935)
+  )
   (wire (pts (xy 302.26 69.85) (xy 302.26 73.66))
     (stroke (width 0) (type default))
     (uuid 4dafd98c-0b22-43bb-984d-a8c23add19eb)
@@ -1903,6 +1951,10 @@
   (wire (pts (xy 339.09 83.82) (xy 342.9 83.82))
     (stroke (width 0) (type default))
     (uuid 4e07bd28-35b4-4784-9367-324216967a6c)
+  )
+  (wire (pts (xy 266.065 272.415) (xy 261.62 272.415))
+    (stroke (width 0) (type default))
+    (uuid 4e8f12fd-0cbd-4dca-bd18-e666ca565242)
   )
   (wire (pts (xy 67.31 261.62) (xy 67.31 264.16))
     (stroke (width 0) (type default))
@@ -1916,17 +1968,17 @@
     (stroke (width 0) (type default))
     (uuid 4f961b34-69f3-4272-8fc3-7676bd0d8a9d)
   )
+  (wire (pts (xy 194.945 262.255) (xy 200.66 262.255))
+    (stroke (width 0) (type default))
+    (uuid 4fc8ea30-dceb-417e-a720-f8c86fdf0aa1)
+  )
   (wire (pts (xy 180.34 44.45) (xy 176.53 44.45))
     (stroke (width 0) (type default))
     (uuid 501df66d-da25-460e-9101-4d44e39e1f5a)
   )
-  (wire (pts (xy 259.08 246.38) (xy 254.635 246.38))
+  (wire (pts (xy 256.54 235.585) (xy 252.095 235.585))
     (stroke (width 0) (type default))
     (uuid 51130ea8-5466-46ab-9c1b-c0664a074a78)
-  )
-  (wire (pts (xy 173.355 246.38) (xy 190.5 246.38))
-    (stroke (width 0) (type default))
-    (uuid 51f6ad7c-2bbb-4024-9b48-4aa2154fd8a9)
   )
   (wire (pts (xy 118.11 256.54) (xy 118.11 254))
     (stroke (width 0) (type default))
@@ -1940,6 +1992,10 @@
     (stroke (width 0) (type default))
     (uuid 534431c2-6cd7-4ece-b977-d9a5c8dd5727)
   )
+  (wire (pts (xy 342.9 26.035) (xy 339.09 26.035))
+    (stroke (width 0) (type default))
+    (uuid 53a6fb35-2af7-463d-90b8-3b1c857df3a5)
+  )
   (wire (pts (xy 101.6 108.585) (xy 101.6 103.505))
     (stroke (width 0) (type default))
     (uuid 546b0b5d-3895-474c-9b96-2590317fbf23)
@@ -1952,7 +2008,7 @@
     (stroke (width 0) (type default))
     (uuid 56e5465e-a441-40cc-af98-b7a4c3b43f17)
   )
-  (wire (pts (xy 266.065 259.715) (xy 266.065 264.16))
+  (wire (pts (xy 263.525 248.92) (xy 263.525 253.365))
     (stroke (width 0) (type default))
     (uuid 5755e761-9bc8-4bf1-9d2a-6d91f685459f)
   )
@@ -1987,6 +2043,10 @@
   (wire (pts (xy 176.53 50.8) (xy 176.53 59.69))
     (stroke (width 0) (type default))
     (uuid 5e2f77ff-7b06-4245-b7d3-ad1fc0dda0cd)
+  )
+  (wire (pts (xy 216.535 262.255) (xy 221.615 262.255))
+    (stroke (width 0) (type default))
+    (uuid 5f8c768b-6dfb-4374-9f05-03610401f53f)
   )
   (wire (pts (xy 92.71 170.815) (xy 92.71 156.845))
     (stroke (width 0) (type default))
@@ -2036,13 +2096,17 @@
     (stroke (width 0) (type default))
     (uuid 66ab06ca-80a1-4aa7-8dd2-687e03e3db9d)
   )
-  (wire (pts (xy 238.76 261.62) (xy 238.76 257.81))
+  (wire (pts (xy 216.535 262.255) (xy 216.535 258.445))
     (stroke (width 0) (type default))
     (uuid 68618d84-5d38-4f3a-baf8-04245d5bdaca)
   )
   (wire (pts (xy 41.91 248.92) (xy 69.85 248.92))
     (stroke (width 0) (type default))
     (uuid 68b0bd11-e075-41ee-b8bd-024c26d9865b)
+  )
+  (wire (pts (xy 355.6 26.035) (xy 355.6 36.83))
+    (stroke (width 0) (type default))
+    (uuid 69c67f3d-e65d-4d13-b8dc-3bd82405aa40)
   )
   (wire (pts (xy 254 151.13) (xy 276.86 151.13))
     (stroke (width 0) (type default))
@@ -2060,6 +2124,10 @@
     (stroke (width 0) (type default))
     (uuid 6a5f9211-313c-4e21-8f24-e01eba75c6f7)
   )
+  (wire (pts (xy 173.99 247.015) (xy 183.515 247.015))
+    (stroke (width 0) (type default))
+    (uuid 6aeb7d71-d317-42d6-869b-938c6cb9060b)
+  )
   (wire (pts (xy 24.13 257.81) (xy 26.67 257.81))
     (stroke (width 0) (type default))
     (uuid 6ba11e7a-1ce7-4245-af11-4370c93cd1c3)
@@ -2068,7 +2136,7 @@
     (stroke (width 0) (type default))
     (uuid 6c016e0b-fdcc-4f41-ae93-54f1a954be2e)
   )
-  (wire (pts (xy 281.305 257.175) (xy 285.115 257.175))
+  (wire (pts (xy 278.765 246.38) (xy 282.575 246.38))
     (stroke (width 0) (type default))
     (uuid 6c752748-6d54-4eac-9283-ffd9edcfbc80)
   )
@@ -2116,7 +2184,7 @@
     (stroke (width 0) (type default))
     (uuid 7141a919-cd69-4014-aef6-e9b690e0d0e1)
   )
-  (wire (pts (xy 190.5 246.38) (xy 195.58 246.38))
+  (wire (pts (xy 183.515 247.015) (xy 188.595 247.015))
     (stroke (width 0) (type default))
     (uuid 7335c247-8e94-4053-80f8-eb2c57ee3b18)
   )
@@ -2148,6 +2216,10 @@
     (stroke (width 0) (type default))
     (uuid 781eb140-ee61-47be-ae36-b1e512cd3f23)
   )
+  (wire (pts (xy 338.455 34.29) (xy 339.09 34.29))
+    (stroke (width 0) (type default))
+    (uuid 78e4bf1f-dd22-40f2-aa93-a80ab395b265)
+  )
   (wire (pts (xy 137.16 76.2) (xy 156.21 76.2))
     (stroke (width 0) (type default))
     (uuid 7941bb7e-b427-45d6-9f40-35ad655a655f)
@@ -2164,6 +2236,10 @@
     (stroke (width 0) (type default))
     (uuid 7b0a7bd5-ebb9-406e-9ea4-5f292fde332d)
   )
+  (wire (pts (xy 221.615 262.255) (xy 231.775 262.255))
+    (stroke (width 0) (type default))
+    (uuid 7b2d20ac-4ac8-4e98-87b4-a818a92c03a2)
+  )
   (wire (pts (xy 302.26 31.75) (xy 305.435 31.75))
     (stroke (width 0) (type default))
     (uuid 7c24c58d-53b1-4d23-8e5d-7c71b9c54b93)
@@ -2172,7 +2248,7 @@
     (stroke (width 0) (type default))
     (uuid 7c58f739-4158-4026-973a-35a4dae8258f)
   )
-  (wire (pts (xy 262.89 254.635) (xy 266.065 254.635))
+  (wire (pts (xy 260.35 243.84) (xy 263.525 243.84))
     (stroke (width 0) (type default))
     (uuid 7d6cab70-67b9-4177-91ad-f3e28eae3c38)
   )
@@ -2192,6 +2268,10 @@
     (stroke (width 0) (type default))
     (uuid 7f07fad8-6771-4cb4-8fc9-ba00388e105e)
   )
+  (wire (pts (xy 200.66 262.255) (xy 205.74 262.255))
+    (stroke (width 0) (type default))
+    (uuid 7f97d6a5-639a-4bbe-a924-23a91c3996d0)
+  )
   (wire (pts (xy 287.02 151.13) (xy 287.02 152.4))
     (stroke (width 0) (type default))
     (uuid 7fc666b2-d61c-42d8-a1e0-6a9f027a9ba9)
@@ -2200,11 +2280,15 @@
     (stroke (width 0) (type default))
     (uuid 803b42c1-8c78-475f-b913-df14574cd748)
   )
+  (wire (pts (xy 355.6 36.83) (xy 354.965 36.83))
+    (stroke (width 0) (type default))
+    (uuid 80ae9f0c-b332-4cf5-9b37-7a41fc16222c)
+  )
   (wire (pts (xy 304.8 161.29) (xy 304.8 162.56))
     (stroke (width 0) (type default))
     (uuid 80f5a1f2-5856-41a2-ad9f-38bd805e0b22)
   )
-  (wire (pts (xy 168.275 246.38) (xy 168.275 250.19))
+  (wire (pts (xy 168.275 247.015) (xy 168.275 250.825))
     (stroke (width 0) (type default))
     (uuid 81281069-8c3d-487b-9867-63a87f2e0480)
   )
@@ -2248,13 +2332,25 @@
     (stroke (width 0) (type default))
     (uuid 86fd4baa-5b61-439c-b193-957186b1cc84)
   )
+  (wire (pts (xy 216.535 247.015) (xy 221.615 247.015))
+    (stroke (width 0) (type default))
+    (uuid 88af7213-3a26-4da3-8720-21dddfbdadab)
+  )
   (wire (pts (xy 153.67 245.11) (xy 153.67 248.92))
     (stroke (width 0) (type default))
     (uuid 8900f4ef-807d-41bc-966d-eeed6a8245ef)
   )
+  (wire (pts (xy 194.945 267.335) (xy 194.945 262.255))
+    (stroke (width 0) (type default))
+    (uuid 8a4bb757-6fca-42ad-a9fe-1766218d20d0)
+  )
   (wire (pts (xy 294.64 66.04) (xy 294.64 77.47))
     (stroke (width 0) (type default))
     (uuid 8ae6f16d-52e7-4100-b3a6-242f396cae43)
+  )
+  (wire (pts (xy 173.99 262.255) (xy 168.275 262.255))
+    (stroke (width 0) (type default))
+    (uuid 8c19bdaf-3a2e-448a-85a5-0648454ffa21)
   )
   (wire (pts (xy 191.77 150.495) (xy 191.77 151.765))
     (stroke (width 0) (type default))
@@ -2288,6 +2384,10 @@
     (stroke (width 0) (type default))
     (uuid 94178721-eb3e-46d4-91a9-e33e4d40ad40)
   )
+  (wire (pts (xy 266.065 277.495) (xy 266.065 281.305))
+    (stroke (width 0) (type default))
+    (uuid 952fb28a-d86c-4513-97bf-c965438b7fc2)
+  )
   (wire (pts (xy 137.16 154.305) (xy 137.16 156.845))
     (stroke (width 0) (type default))
     (uuid 953fbf5f-cc7e-4b24-a4d2-55b1039e6b37)
@@ -2315,6 +2415,10 @@
   (wire (pts (xy 125.73 137.795) (xy 125.73 144.145))
     (stroke (width 0) (type default))
     (uuid 9a8ca3b6-555c-4ac3-b0c4-6eb808b7f9ad)
+  )
+  (wire (pts (xy 266.065 281.305) (xy 281.305 281.305))
+    (stroke (width 0) (type default))
+    (uuid 9b589cfc-ccdb-440a-9b16-69acd0a6f1f8)
   )
   (wire (pts (xy 102.87 88.265) (xy 106.68 88.265))
     (stroke (width 0) (type default))
@@ -2344,7 +2448,7 @@
     (stroke (width 0) (type default))
     (uuid a4485dc4-4fee-4211-874d-7f5060b0cd5d)
   )
-  (wire (pts (xy 238.76 246.38) (xy 238.76 250.19))
+  (wire (pts (xy 216.535 247.015) (xy 216.535 250.825))
     (stroke (width 0) (type default))
     (uuid a4f540e2-6e33-4da1-a5cb-f955ba2ed183)
   )
@@ -2356,10 +2460,6 @@
     (stroke (width 0) (type default))
     (uuid a5f8dd0c-05fd-4516-9b65-6a78d842dcbe)
   )
-  (wire (pts (xy 219.71 261.62) (xy 214.63 261.62))
-    (stroke (width 0) (type default))
-    (uuid abc00212-71c1-4c99-85c1-f777ec12a759)
-  )
   (wire (pts (xy 83.82 274.32) (xy 90.17 274.32))
     (stroke (width 0) (type default))
     (uuid ac3f3322-9873-4180-a6ad-29d2f9ce9ab0)
@@ -2368,11 +2468,7 @@
     (stroke (width 0) (type default))
     (uuid ac951b32-2faa-4039-bb33-af6289133938)
   )
-  (wire (pts (xy 195.58 246.38) (xy 214.63 246.38))
-    (stroke (width 0) (type default))
-    (uuid ace4eebd-3b97-40e4-b6f6-4bf278104a95)
-  )
-  (wire (pts (xy 190.5 257.81) (xy 190.5 261.62))
+  (wire (pts (xy 183.515 258.445) (xy 183.515 262.255))
     (stroke (width 0) (type default))
     (uuid ad473495-e9cf-4c96-872e-3686772bc2dc)
   )
@@ -2383,10 +2479,6 @@
   (wire (pts (xy 44.45 269.24) (xy 44.45 274.32))
     (stroke (width 0) (type default))
     (uuid adf5f8dc-68e6-4261-bdf2-7c84b8dc8a67)
-  )
-  (wire (pts (xy 173.355 261.62) (xy 190.5 261.62))
-    (stroke (width 0) (type default))
-    (uuid ae93dd96-8c00-481c-a65c-e48d7f3c67a6)
   )
   (wire (pts (xy 290.83 88.9) (xy 295.91 88.9))
     (stroke (width 0) (type default))
@@ -2400,7 +2492,7 @@
     (stroke (width 0) (type default))
     (uuid b15b61f6-d1c2-4487-8064-b067f5d20a1d)
   )
-  (wire (pts (xy 266.065 264.16) (xy 281.305 264.16))
+  (wire (pts (xy 263.525 253.365) (xy 278.765 253.365))
     (stroke (width 0) (type default))
     (uuid b26cc217-fb87-471e-b935-5582e5c307aa)
   )
@@ -2440,7 +2532,11 @@
     (stroke (width 0) (type default))
     (uuid b93088f7-7961-4627-9fac-88f181bfe65c)
   )
-  (wire (pts (xy 285.115 257.175) (xy 287.655 257.175))
+  (wire (pts (xy 339.09 26.035) (xy 339.09 34.29))
+    (stroke (width 0) (type default))
+    (uuid bb24ca99-79d8-4050-bf0c-832069a8cd58)
+  )
+  (wire (pts (xy 282.575 246.38) (xy 285.115 246.38))
     (stroke (width 0) (type default))
     (uuid bb7fe07b-abe7-4e64-a1f2-08fd412309ac)
   )
@@ -2464,15 +2560,11 @@
     (stroke (width 0) (type default))
     (uuid bfc96791-8e2f-4deb-b9be-6e373cda55d4)
   )
-  (wire (pts (xy 219.71 246.38) (xy 214.63 246.38))
-    (stroke (width 0) (type default))
-    (uuid c0366355-95ad-4d3e-8352-1f8de358a651)
-  )
   (wire (pts (xy 118.11 100.965) (xy 118.11 92.71))
     (stroke (width 0) (type default))
     (uuid c0e3fa12-7ce9-4794-9f9b-c3553743b42b)
   )
-  (wire (pts (xy 168.275 257.81) (xy 168.275 261.62))
+  (wire (pts (xy 168.275 258.445) (xy 168.275 262.255))
     (stroke (width 0) (type default))
     (uuid c1152901-f405-46e1-afa6-8d93ab7ac160)
   )
@@ -2495,6 +2587,14 @@
   (wire (pts (xy 287.02 151.13) (xy 293.37 151.13))
     (stroke (width 0) (type default))
     (uuid c4e6625b-a293-4c39-9a41-02fac4a25fe0)
+  )
+  (wire (pts (xy 231.775 262.255) (xy 236.855 262.255))
+    (stroke (width 0) (type default))
+    (uuid c57cb43b-1535-485d-b634-6d6293ed986a)
+  )
+  (wire (pts (xy 329.565 34.29) (xy 330.835 34.29))
+    (stroke (width 0) (type default))
+    (uuid c5d53591-3f3b-4fc6-96e8-1cbd1082a80b)
   )
   (wire (pts (xy 87.63 59.69) (xy 99.06 59.69))
     (stroke (width 0) (type default))
@@ -2520,13 +2620,17 @@
     (stroke (width 0) (type default))
     (uuid ca6e9e73-df2f-4329-a5f3-a18e05dcb0e4)
   )
-  (wire (pts (xy 214.63 246.38) (xy 214.63 250.19))
+  (wire (pts (xy 200.66 247.015) (xy 200.66 250.825))
     (stroke (width 0) (type default))
     (uuid ca8d574a-dd61-4b8a-9112-b1bf6fd04784)
   )
   (wire (pts (xy 118.11 254) (xy 120.65 254))
     (stroke (width 0) (type default))
     (uuid caff1d73-9778-4891-b83a-08b082eac709)
+  )
+  (wire (pts (xy 350.52 26.035) (xy 355.6 26.035))
+    (stroke (width 0) (type default))
+    (uuid cb184d9d-022a-424e-90f5-afbb8161a212)
   )
   (wire (pts (xy 302.26 73.66) (xy 304.8 73.66))
     (stroke (width 0) (type default))
@@ -2540,9 +2644,9 @@
     (stroke (width 0) (type default))
     (uuid cd23b258-e44d-4260-a20f-39e23d5a2528)
   )
-  (wire (pts (xy 173.355 246.38) (xy 168.275 246.38))
+  (wire (pts (xy 221.615 247.015) (xy 231.775 247.015))
     (stroke (width 0) (type default))
-    (uuid cdc4eada-1ed7-4c74-b954-4d36a8b8174c)
+    (uuid ceaf2f9a-3cc3-40a8-bf6f-76aa16206600)
   )
   (wire (pts (xy 69.85 55.88) (xy 83.82 55.88))
     (stroke (width 0) (type default))
@@ -2551,6 +2655,10 @@
   (wire (pts (xy 106.68 151.765) (xy 106.68 156.845))
     (stroke (width 0) (type default))
     (uuid cfcd398f-a000-4e5b-88cd-64eb72bbf786)
+  )
+  (wire (pts (xy 168.275 247.015) (xy 173.99 247.015))
+    (stroke (width 0) (type default))
+    (uuid d06a16c6-ea08-452f-9d80-cd9aacde2eaa)
   )
   (wire (pts (xy 69.85 248.92) (xy 69.85 259.08))
     (stroke (width 0) (type default))
@@ -2568,9 +2676,17 @@
     (stroke (width 0) (type default))
     (uuid d31fdf49-f75d-494d-8bea-eb33a065bf72)
   )
+  (wire (pts (xy 194.945 241.3) (xy 194.945 247.015))
+    (stroke (width 0) (type default))
+    (uuid d3c16862-4080-499b-a981-f9dc370c3a88)
+  )
   (wire (pts (xy 71.755 145.415) (xy 69.85 145.415))
     (stroke (width 0) (type default))
     (uuid d420173f-6fdd-4988-a276-86c689852d3a)
+  )
+  (wire (pts (xy 194.945 247.015) (xy 200.66 247.015))
+    (stroke (width 0) (type default))
+    (uuid d45e2f10-9ba6-446b-b89f-a2bb45509d56)
   )
   (wire (pts (xy 342.9 91.44) (xy 361.95 91.44))
     (stroke (width 0) (type default))
@@ -2580,9 +2696,9 @@
     (stroke (width 0) (type default))
     (uuid d46d1367-a117-4783-85f3-0d0258d98d29)
   )
-  (wire (pts (xy 243.84 246.38) (xy 238.76 246.38))
+  (wire (pts (xy 205.74 262.255) (xy 216.535 262.255))
     (stroke (width 0) (type default))
-    (uuid d5885904-934c-4ac1-8484-b85783251626)
+    (uuid d5f2d207-2551-43e4-8754-abb499c6fd96)
   )
   (wire (pts (xy 153.67 238.76) (xy 153.67 245.11))
     (stroke (width 0) (type default))
@@ -2636,9 +2752,9 @@
     (stroke (width 0) (type default))
     (uuid dce5c08e-acb3-4c72-93e4-cccc0eddb726)
   )
-  (wire (pts (xy 243.84 261.62) (xy 238.76 261.62))
+  (wire (pts (xy 339.09 34.29) (xy 339.725 34.29))
     (stroke (width 0) (type default))
-    (uuid de0b09a6-53b7-4713-9f59-e030356fcbfe)
+    (uuid dce93f1d-62a9-45a6-8255-6c8746393249)
   )
   (wire (pts (xy 341.63 168.91) (xy 341.63 176.53))
     (stroke (width 0) (type default))
@@ -2672,6 +2788,10 @@
     (stroke (width 0) (type default))
     (uuid e0742152-2919-40fb-a094-27f15ee9625f)
   )
+  (wire (pts (xy 356.235 36.83) (xy 355.6 36.83))
+    (stroke (width 0) (type default))
+    (uuid e22925e9-8ecb-4780-ae1c-3dc15c1a2404)
+  )
   (wire (pts (xy 264.16 88.9) (xy 283.21 88.9))
     (stroke (width 0) (type default))
     (uuid e2b18672-08b0-43be-9a38-09780b7d5326)
@@ -2699,10 +2819,6 @@
   (wire (pts (xy 172.72 156.845) (xy 176.53 156.845))
     (stroke (width 0) (type default))
     (uuid e5d55c24-cdbe-4a5e-9c78-3f4a199adb46)
-  )
-  (wire (pts (xy 219.71 261.62) (xy 238.76 261.62))
-    (stroke (width 0) (type default))
-    (uuid e78a89ae-58a5-4c99-8422-914db8a2a543)
   )
   (wire (pts (xy 135.89 254) (xy 135.89 260.35))
     (stroke (width 0) (type default))
@@ -2743,6 +2859,10 @@
   (wire (pts (xy 106.68 92.71) (xy 102.87 92.71))
     (stroke (width 0) (type default))
     (uuid f1718fa7-5ee2-4145-8141-dcca9f82b0c7)
+  )
+  (wire (pts (xy 194.945 247.015) (xy 188.595 247.015))
+    (stroke (width 0) (type default))
+    (uuid f2164c5b-5d8c-426a-b123-3ba005c6e0cc)
   )
   (wire (pts (xy 107.315 184.785) (xy 107.315 180.34))
     (stroke (width 0) (type default))
@@ -2837,7 +2957,7 @@
     (fill (type none))
     (uuid 970c084c-151c-4ccb-9c8a-4b25df8f23bf)
   )
-  (rectangle (start 285.75 12.7) (end 355.6 42.545)
+  (rectangle (start 285.75 12.7) (end 382.27 45.72)
     (stroke (width 0) (type default))
     (fill (type none))
     (uuid e46e85a6-7bd1-444a-99e0-7f52a93c589a)
@@ -2876,7 +2996,7 @@
     (effects (font (size 1.27 1.27) (color 204 102 0 1)) (justify left bottom))
     (uuid 0f87d4dd-70f2-4f6a-9b8f-4fd7dbae6d3f)
   )
-  (text "-5V reference" (at 265.43 244.475 0)
+  (text "-5V reference" (at 262.89 233.68 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 15e92622-b81d-424f-b2ab-a92ba3c7222c)
   )
@@ -3021,7 +3141,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bc39c4cc-6881-43f1-b2aa-d81c74ba223c)
   )
-  (text "Op amp power and decoupling" (at 204.47 238.125 0)
+  (text "Op amp power and decoupling" (at 179.705 231.14 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bddebbc8-83d6-4ef1-ad62-0f4197a85677)
   )
@@ -3059,10 +3179,6 @@
   (text "CV Attenuation knob" (at 81.28 53.34 0)
     (effects (font (size 1.27 1.27) (color 204 102 0 1)) (justify left bottom))
     (uuid e7093811-9944-4354-ae76-ed69b6267a98)
-  )
-  (text "Is inverted from signal outputs" (at 285.75 45.085 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid ea1217af-8924-4034-b470-23fd655b1c79)
   )
   (text "-1V to 10V" (at 255.27 63.5 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -3201,7 +3317,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d7967ac3-bcb8-4fc9-82af-fdf80604a38b)
   )
-  (label "-5VRef" (at 287.655 257.175 0) (fields_autoplaced)
+  (label "-5VRef" (at 285.115 246.38 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid dafc3680-7093-410c-a2d3-f61cada8eb6c)
   )
@@ -3221,7 +3337,7 @@
   (symbol (lib_id "Device:R") (at 102.87 156.845 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 010dec24-8d27-417a-be89-f0d81fbe1c0b)
-    (property "Reference" "R29" (at 102.87 154.305 90)
+    (property "Reference" "R32" (at 102.87 154.305 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100K" (at 102.87 156.845 90)
@@ -3238,7 +3354,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R29") (unit 1)
+          (reference "R32") (unit 1)
         )
       )
     )
@@ -3307,7 +3423,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR034") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -3355,7 +3471,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR048") (unit 1)
+          (reference "#PWR049") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -3403,7 +3519,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -3440,10 +3556,42 @@
     )
   )
 
+  (symbol (lib_id "Amplifier_Operational:TL072") (at 239.395 254.635 0) (unit 3)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 08f0a2d3-b7e5-4b26-a93f-aa55a238dd10)
+    (property "Reference" "U6" (at 235.585 242.57 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TL072" (at 235.585 245.11 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 239.395 254.635 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 239.395 254.635 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dd91dcba-c648-4e4d-af1c-e79ab6dbb2ff))
+    (pin "6" (uuid bad2c0c7-815b-4193-881a-f5de4c4ded76))
+    (pin "5" (uuid 76264e1a-4e49-4ca4-8686-c9cc54f051e0))
+    (pin "3" (uuid 31855d30-241b-47d4-87a4-da24b0ccab3f))
+    (pin "2" (uuid 49b5482a-4ab2-4b26-a9cf-b47e76dc5256))
+    (pin "8" (uuid 8d2cf64e-7aa0-497a-8f20-9482b1406674))
+    (pin "7" (uuid 02db22cb-4faf-4868-8b5b-6ed4406aa798))
+    (pin "4" (uuid 99e84778-a8c7-47c9-8226-779ff91584fd))
+    (instances
+      (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
+        (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
+          (reference "U6") (unit 3)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:LED") (at 114.935 184.785 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0abdf873-a834-4ca1-9684-4d22ac45a0aa)
-    (property "Reference" "D14" (at 127 184.15 0)
+    (property "Reference" "D11" (at 127 184.15 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LO2" (at 127 186.69 0)
@@ -3460,7 +3608,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D14") (unit 1)
+          (reference "D11") (unit 1)
         )
       )
     )
@@ -3593,7 +3741,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR044") (unit 1)
+          (reference "#PWR043") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -3655,7 +3803,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 184.15 67.31 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 12eb196d-6c54-4c56-8bbd-ce5590097960)
-    (property "Reference" "U2" (at 189.23 73.025 0)
+    (property "Reference" "U3" (at 189.23 73.025 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 189.23 70.485 0)
@@ -3684,7 +3832,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U2") (unit 2)
+          (reference "U3") (unit 2)
         )
       )
     )
@@ -3727,7 +3875,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR06") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -3775,7 +3923,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR020") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -3789,7 +3937,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 184.15 159.385 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 18d75bd4-2722-4c15-8594-0fdf4f11f653)
-    (property "Reference" "U3" (at 187.96 165.1 0)
+    (property "Reference" "U4" (at 187.96 165.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 187.96 162.56 0)
@@ -3818,7 +3966,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U3") (unit 2)
+          (reference "U4") (unit 2)
         )
       )
     )
@@ -3827,7 +3975,7 @@
   (symbol (lib_id "Device:R") (at 168.91 161.925 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1aa46437-35a3-4fd3-9ae9-64e0ace790eb)
-    (property "Reference" "R31" (at 168.91 159.385 90)
+    (property "Reference" "R34" (at 168.91 159.385 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100K" (at 168.91 161.925 90)
@@ -3844,7 +3992,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R31") (unit 1)
+          (reference "R34") (unit 1)
         )
       )
     )
@@ -3877,19 +4025,19 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL072") (at 193.04 254 0) (mirror y) (unit 3)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Amplifier_Operational:TL072") (at 186.055 254.635 0) (mirror y) (unit 3)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 1e734a3b-10f6-4464-b484-3a5fe657a828)
-    (property "Reference" "U4" (at 196.85 252.73 0)
+    (property "Reference" "U5" (at 186.69 242.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "TL072" (at 196.85 255.27 0)
+    (property "Value" "TL072" (at 186.69 245.11 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 193.04 254 0)
+    (property "Footprint" "" (at 186.055 254.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 193.04 254 0)
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 186.055 254.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f020f4a5-7ae5-464d-9c2b-670a707ec60f))
@@ -3903,7 +4051,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U4") (unit 3)
+          (reference "U5") (unit 3)
         )
       )
     )
@@ -3938,7 +4086,7 @@
   (symbol (lib_id "Device:C") (at 149.86 238.76 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2048cce4-ed3b-497a-b963-d89cbc6e0c40)
-    (property "Reference" "C15" (at 149.86 232.41 90)
+    (property "Reference" "C16" (at 149.86 232.41 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 149.86 234.95 90)
@@ -3955,7 +4103,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "C15") (unit 1)
+          (reference "C16") (unit 1)
         )
       )
     )
@@ -3964,7 +4112,7 @@
   (symbol (lib_id "Device:R") (at 100.965 200.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 24949e8c-3d72-442a-ba86-b6e562521701)
-    (property "Reference" "R46" (at 100.965 198.12 90)
+    (property "Reference" "R39" (at 100.965 198.12 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1M" (at 100.965 200.66 90)
@@ -3981,7 +4129,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R46") (unit 1)
+          (reference "R39") (unit 1)
         )
       )
     )
@@ -4038,7 +4186,7 @@
   (symbol (lib_id "Device:R") (at 102.87 151.765 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 299f3c5e-006c-41e3-9b52-c929b4314ad8)
-    (property "Reference" "R27" (at 102.87 149.225 90)
+    (property "Reference" "R30" (at 102.87 149.225 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100K" (at 102.87 151.765 90)
@@ -4055,7 +4203,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R27") (unit 1)
+          (reference "R30") (unit 1)
         )
       )
     )
@@ -4064,7 +4212,7 @@
   (symbol (lib_id "Device:R") (at 118.11 144.145 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b0d7dd0-3dd0-4524-a9a8-a01569be6c85)
-    (property "Reference" "R26" (at 118.11 141.605 90)
+    (property "Reference" "R29" (at 118.11 141.605 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "180K" (at 118.11 144.145 90)
@@ -4081,7 +4229,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R26") (unit 1)
+          (reference "R29") (unit 1)
         )
       )
     )
@@ -4124,7 +4272,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -4138,7 +4286,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 191.77 186.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2be1f9c4-5d04-46a5-9554-f90a4e93a529)
-    (property "Reference" "D8" (at 194.945 185.7375 90)
+    (property "Reference" "D12" (at 194.945 185.7375 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "BAT42" (at 194.945 188.2775 90)
@@ -4155,7 +4303,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D8") (unit 1)
+          (reference "D12") (unit 1)
         )
       )
     )
@@ -4164,7 +4312,7 @@
   (symbol (lib_id "Device:R") (at 183.515 98.425 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2dd3d045-5bce-4a48-b451-8e1d2c9328ff)
-    (property "Reference" "R23" (at 183.515 95.885 90)
+    (property "Reference" "R24" (at 183.515 95.885 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100K" (at 183.515 98.425 90)
@@ -4181,7 +4329,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R23") (unit 1)
+          (reference "R24") (unit 1)
         )
       )
     )
@@ -4190,7 +4338,7 @@
   (symbol (lib_id "Device:R") (at 321.945 26.67 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3010c762-a684-4cdf-9da5-3877f7318f50)
-    (property "Reference" "R38" (at 321.945 24.13 90)
+    (property "Reference" "R43" (at 321.945 24.13 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100K" (at 321.945 26.67 90)
@@ -4207,25 +4355,25 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R38") (unit 1)
+          (reference "R43") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:R_Potentiometer_Trim") (at 259.08 254.635 0) (unit 1)
+  (symbol (lib_id "Device:R_Potentiometer_Trim") (at 256.54 243.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3018dcd9-0087-46da-8340-1b51aad938c4)
-    (property "Reference" "RV7" (at 256.54 253.365 0)
+    (property "Reference" "RV7" (at 254 242.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10K" (at 256.54 255.905 0)
+    (property "Value" "10K" (at 254 245.11 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 259.08 254.635 0)
+    (property "Footprint" "" (at 256.54 243.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 259.08 254.635 0)
+    (property "Datasheet" "~" (at 256.54 243.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid de44b2f6-d7ae-499b-83ef-07afc452c698))
@@ -4243,7 +4391,7 @@
   (symbol (lib_id "Device:R") (at 309.245 26.67 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3187e455-55b3-4717-8ea9-45f0fd75430e)
-    (property "Reference" "R37" (at 309.245 24.13 90)
+    (property "Reference" "R42" (at 309.245 24.13 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100K" (at 309.245 26.67 90)
@@ -4260,25 +4408,25 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R37") (unit 1)
+          (reference "R42") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL072") (at 321.945 34.29 0) (mirror x) (unit 2)
+  (symbol (lib_id "Amplifier_Operational:TL072") (at 273.685 274.955 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3340d14e-bb13-4275-8330-2077a7094a14)
-    (property "Reference" "U4" (at 323.215 38.1 0)
+    (property "Reference" "U6" (at 274.955 271.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "TL072" (at 323.215 40.64 0)
+    (property "Value" "TL072" (at 274.955 268.605 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 321.945 34.29 0)
+    (property "Footprint" "" (at 273.685 274.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 321.945 34.29 0)
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 273.685 274.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f020f4a5-7ae5-464d-9c2b-670a707ec610))
@@ -4292,25 +4440,25 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U4") (unit 2)
+          (reference "U6") (unit 2)
         )
       )
     )
   )
 
-  (symbol (lib_id "DIYSynthMNL:PJ3001F") (at 342.265 34.29 180) (unit 1)
+  (symbol (lib_id "DIYSynthMNL:PJ3001F") (at 368.935 36.83 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 342f2a67-fde8-497d-a117-53e44d9452bf)
-    (property "Reference" "J9" (at 347.345 32.385 0)
+    (property "Reference" "J7" (at 374.015 34.925 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Mix Out" (at 347.345 34.925 0)
+    (property "Value" "Mix Out" (at 374.015 37.465 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "DIYSynthMNL:AudioJack_3.5mm_long_pads" (at 342.265 26.67 0)
+    (property "Footprint" "DIYSynthMNL:AudioJack_3.5mm_long_pads" (at 368.935 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 342.265 34.29 0)
+    (property "Datasheet" "~" (at 368.935 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "S" (uuid 6fb23c21-f3b5-4085-8ab8-2046321202ad))
@@ -4319,7 +4467,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "J9") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
     )
@@ -4428,7 +4576,7 @@
   (symbol (lib_id "Device:LED") (at 110.49 92.71 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3bd04c9a-ddf7-430b-9b8e-f56ebc7eea30)
-    (property "Reference" "D12" (at 122.555 92.075 0)
+    (property "Reference" "D5" (at 122.555 92.075 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LO1" (at 122.555 94.615 0)
@@ -4445,7 +4593,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D12") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -4488,7 +4636,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -4543,7 +4691,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D9") (unit 1)
+          (reference "D13") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -4618,7 +4766,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR047") (unit 1)
+          (reference "#PWR046") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -4632,7 +4780,7 @@
   (symbol (lib_id "Device:R") (at 96.52 103.505 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3e1cb6ca-666d-4cb4-9adf-600995a06f70)
-    (property "Reference" "R41" (at 96.52 100.965 90)
+    (property "Reference" "R25" (at 96.52 100.965 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1M" (at 96.52 103.505 90)
@@ -4649,25 +4797,25 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R41") (unit 1)
+          (reference "R25") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C") (at 190.5 254 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 183.515 254.635 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3fb79129-1df9-43cb-a5ae-bf205494e802)
-    (property "Reference" "C18" (at 186.69 252.73 0)
+    (property "Reference" "C20" (at 186.055 242.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100nF" (at 186.69 255.27 0)
+    (property "Value" "100nF" (at 186.055 245.11 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 191.4652 257.81 0)
+    (property "Footprint" "" (at 184.4802 258.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 190.5 254 0)
+    (property "Datasheet" "~" (at 183.515 254.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0d0319d8-bd05-4e2f-a6bc-4d0f77ccfaaf))
@@ -4675,7 +4823,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "C18") (unit 1)
+          (reference "C20") (unit 1)
         )
       )
     )
@@ -4744,7 +4892,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -4755,19 +4903,19 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 246.38 254 0) (unit 5)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 224.155 254.635 0) (unit 5)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 456ffd61-499a-4a15-baf9-ea51dd2a103d)
-    (property "Reference" "U3" (at 245.11 252.73 0)
+    (property "Reference" "U4" (at 219.71 242.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "TL074" (at 245.11 255.27 0)
+    (property "Value" "TL074" (at 219.71 245.11 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 245.11 251.46 0)
+    (property "Footprint" "" (at 222.885 252.095 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 247.65 248.92 0)
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 225.425 249.555 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "3" (uuid f7abe705-b6bf-463e-81a4-3803ce12622a))
@@ -4787,7 +4935,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U3") (unit 5)
+          (reference "U4") (unit 5)
         )
       )
     )
@@ -4926,7 +5074,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR029") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -4940,7 +5088,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 183.515 90.17 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4940b5a9-67bd-4229-9d39-5e57018f3183)
-    (property "Reference" "D3" (at 184.785 87.63 0)
+    (property "Reference" "D4" (at 184.785 87.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAT42" (at 183.515 93.345 0)
@@ -4957,25 +5105,25 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D3") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C") (at 214.63 254 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 200.66 254.635 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4b54764f-b957-46a5-bc04-a3786a9eb837)
-    (property "Reference" "C19" (at 210.82 252.73 0)
+    (property "Reference" "C21" (at 202.565 242.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100nF" (at 210.82 255.27 0)
+    (property "Value" "100nF" (at 202.565 245.11 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 215.5952 257.81 0)
+    (property "Footprint" "" (at 201.6252 258.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 214.63 254 0)
+    (property "Datasheet" "~" (at 200.66 254.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3163eed6-090d-4e46-b684-b8c2cd4d6bbf))
@@ -4983,7 +5131,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "C19") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
     )
@@ -5026,7 +5174,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR035") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -5040,7 +5188,7 @@
   (symbol (lib_id "Device:R") (at 101.6 184.785 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4cd23350-7b6c-4bda-a670-ccdd7e1623f2)
-    (property "Reference" "R44" (at 101.6 182.245 90)
+    (property "Reference" "R36" (at 101.6 182.245 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 101.6 184.785 90)
@@ -5057,7 +5205,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R44") (unit 1)
+          (reference "R36") (unit 1)
         )
       )
     )
@@ -5129,7 +5277,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "J7") (unit 1)
+          (reference "J8") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -5140,19 +5288,19 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL072") (at 273.685 257.175 0) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:TL072") (at 271.145 246.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4dbfcfcb-a6a3-448d-a994-3b0764303947)
-    (property "Reference" "U4" (at 274.955 253.365 0)
+    (property "Reference" "U6" (at 272.415 242.57 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "TL072" (at 274.955 250.825 0)
+    (property "Value" "TL072" (at 272.415 240.03 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 273.685 257.175 0)
+    (property "Footprint" "" (at 271.145 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 273.685 257.175 0)
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 271.145 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f020f4a5-7ae5-464d-9c2b-670a707ec611))
@@ -5166,7 +5314,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U4") (unit 1)
+          (reference "U6") (unit 1)
         )
       )
     )
@@ -5175,7 +5323,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 183.515 182.245 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4dfe5229-0805-41bc-b919-e4617749a81b)
-    (property "Reference" "D7" (at 184.785 179.705 0)
+    (property "Reference" "D10" (at 184.785 179.705 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAT42" (at 183.515 185.42 0)
@@ -5192,7 +5340,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D7") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -5340,19 +5488,19 @@
     )
   )
 
-  (symbol (lib_id "Connector:TestPoint") (at 285.115 248.285 0) (unit 1)
+  (symbol (lib_id "Connector:TestPoint") (at 282.575 237.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 572b9137-5392-4b92-9856-4d6c29518971)
-    (property "Reference" "TP1" (at 287.655 243.713 0)
+    (property "Reference" "TP1" (at 285.115 232.918 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "-5VREF" (at 287.655 246.253 0)
+    (property "Value" "-5VREF" (at 285.115 235.458 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 290.195 248.285 0)
+    (property "Footprint" "" (at 287.655 237.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 290.195 248.285 0)
+    (property "Datasheet" "~" (at 287.655 237.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 145f68c3-aaa9-413d-bc27-3ae6c309fba4))
@@ -5365,19 +5513,19 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 337.185 36.83 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 363.855 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 57eb434e-7b72-4a9b-b70e-c7d97fc3334a)
-    (property "Reference" "#PWR?" (at 337.185 43.18 0)
+    (property "Reference" "#PWR?" (at 363.855 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 337.185 41.275 0)
+    (property "Value" "GND" (at 363.855 43.815 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 337.185 36.83 0)
+    (property "Footprint" "" (at 363.855 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 337.185 36.83 0)
+    (property "Datasheet" "" (at 363.855 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 782ec7e9-3c8d-4639-92be-bf098dbac980))
@@ -5402,7 +5550,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -5413,19 +5561,19 @@
     )
   )
 
-  (symbol (lib_id "power:-12V") (at 195.58 261.62 180) (unit 1)
+  (symbol (lib_id "power:-12V") (at 194.945 267.335 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 582a961e-0ffb-4110-a265-b06c7cf9908f)
-    (property "Reference" "#PWR?" (at 195.58 264.16 0)
+    (property "Reference" "#PWR?" (at 194.945 269.875 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "-12V" (at 195.58 266.065 0)
+    (property "Value" "-12V" (at 194.945 271.78 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 195.58 261.62 0)
+    (property "Footprint" "" (at 194.945 267.335 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 195.58 261.62 0)
+    (property "Datasheet" "" (at 194.945 267.335 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2be206ff-013f-4927-9b7d-4a79c628910d))
@@ -5450,7 +5598,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR040") (unit 1)
+          (reference "#PWR047") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -5464,7 +5612,7 @@
   (symbol (lib_id "Device:R") (at 132.08 168.275 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a8ade4f-ffea-48b2-be76-0b191d3e7467)
-    (property "Reference" "R32" (at 132.08 165.735 90)
+    (property "Reference" "R35" (at 132.08 165.735 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "6.8K" (at 132.08 168.275 90)
@@ -5481,7 +5629,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R32") (unit 1)
+          (reference "R35") (unit 1)
         )
       )
     )
@@ -5490,7 +5638,7 @@
   (symbol (lib_id "Device:R") (at 173.99 200.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5aa8db9d-9496-4de3-a27a-f9cc890f640b)
-    (property "Reference" "R34" (at 171.45 199.39 0)
+    (property "Reference" "R40" (at 171.45 199.39 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100K" (at 171.45 201.93 0)
@@ -5507,7 +5655,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R34") (unit 1)
+          (reference "R40") (unit 1)
         )
       )
     )
@@ -5534,6 +5682,38 @@
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
           (reference "R14") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Amplifier_Operational:TL072") (at 321.945 34.29 0) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 5be3e025-a7d6-49f8-86a6-f5a4585a8aba)
+    (property "Reference" "U5" (at 325.12 40.64 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "TL072" (at 325.12 38.1 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 321.945 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 321.945 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dd91dcba-c648-4e4d-af1c-e79ab6dbb2ff))
+    (pin "6" (uuid bad2c0c7-815b-4193-881a-f5de4c4ded76))
+    (pin "5" (uuid 76264e1a-4e49-4ca4-8686-c9cc54f051e0))
+    (pin "3" (uuid 31855d30-241b-47d4-87a4-da24b0ccab3f))
+    (pin "2" (uuid 49b5482a-4ab2-4b26-a9cf-b47e76dc5256))
+    (pin "8" (uuid 8d2cf64e-7aa0-497a-8f20-9482b1406674))
+    (pin "7" (uuid 02db22cb-4faf-4868-8b5b-6ed4406aa798))
+    (pin "4" (uuid 99e84778-a8c7-47c9-8226-779ff91584fd))
+    (instances
+      (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
+        (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
+          (reference "U5") (unit 1)
         )
       )
     )
@@ -5568,7 +5748,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 110.49 100.965 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5d70c795-0071-4379-97ec-0ae13cda4958)
-    (property "Reference" "U2" (at 113.665 107.95 0)
+    (property "Reference" "U3" (at 113.665 107.95 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 113.665 105.41 0)
@@ -5597,7 +5777,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U2") (unit 4)
+          (reference "U3") (unit 4)
         )
       )
     )
@@ -5606,7 +5786,7 @@
   (symbol (lib_id "Device:LED") (at 110.49 88.265 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5eee007f-3139-4f50-aa05-250f0809fc78)
-    (property "Reference" "D11" (at 122.555 86.36 0)
+    (property "Reference" "D3" (at 122.555 86.36 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "HI1" (at 122.555 88.9 0)
@@ -5623,7 +5803,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D11") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
@@ -5733,7 +5913,7 @@
   (symbol (lib_id "Device:R") (at 309.245 31.75 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 631d7b48-6693-4514-a008-42e02fb6ceae)
-    (property "Reference" "R39" (at 309.245 29.21 90)
+    (property "Reference" "R44" (at 309.245 29.21 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100K" (at 309.245 31.75 90)
@@ -5750,7 +5930,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R39") (unit 1)
+          (reference "R44") (unit 1)
         )
       )
     )
@@ -5864,7 +6044,7 @@
   (symbol (lib_id "Device:R") (at 100.965 195.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 708898c2-ffcf-44bd-94f9-17144027118c)
-    (property "Reference" "R45" (at 100.965 193.04 90)
+    (property "Reference" "R38" (at 100.965 193.04 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1M" (at 100.965 195.58 90)
@@ -5881,7 +6061,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R45") (unit 1)
+          (reference "R38") (unit 1)
         )
       )
     )
@@ -5964,7 +6144,7 @@
   (symbol (lib_id "Device:LED") (at 114.935 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 773e7138-df5f-46aa-8a4d-268825bf54b8)
-    (property "Reference" "D13" (at 127 178.435 0)
+    (property "Reference" "D9" (at 127 178.435 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "HI2" (at 127 180.975 0)
@@ -5981,7 +6161,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D13") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )
@@ -6014,19 +6194,19 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 333.375 34.29 90) (unit 1)
+  (symbol (lib_id "Device:R") (at 360.045 36.83 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7f707543-4795-4a05-9b54-ce8cb6113072)
-    (property "Reference" "R40" (at 333.375 31.75 90)
+    (property "Reference" "R46" (at 360.045 34.29 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1K" (at 333.375 34.29 90)
+    (property "Value" "1K" (at 360.045 36.83 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 333.375 36.068 90)
+    (property "Footprint" "" (at 360.045 38.608 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 333.375 34.29 0)
+    (property "Datasheet" "~" (at 360.045 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e2532ffb-68aa-4cb9-a632-745a05a8c01b))
@@ -6034,7 +6214,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R40") (unit 1)
+          (reference "R46") (unit 1)
         )
       )
     )
@@ -6119,6 +6299,32 @@
     )
   )
 
+  (symbol (lib_id "Device:R") (at 346.71 26.035 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 892f1f2d-950e-40ad-9c0b-b5b7ae47906a)
+    (property "Reference" "R41" (at 346.71 23.495 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "100K" (at 346.71 26.035 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 346.71 27.813 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 346.71 26.035 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "2" (uuid f4ad5a2a-f15b-4797-aa57-ca05105215d1))
+    (pin "1" (uuid e3d7f21b-5f1e-4cde-ab27-548e80a000ea))
+    (instances
+      (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
+        (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
+          (reference "R41") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:R") (at 285.75 173.99 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b9a0039-2d70-4abc-adb8-48b2201a5a98)
@@ -6148,7 +6354,7 @@
   (symbol (lib_id "Device:R") (at 118.11 260.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8ce3cf20-255a-4594-bbea-0ab14ab8d8bc)
-    (property "Reference" "R36" (at 120.65 259.08 0)
+    (property "Reference" "R48" (at 120.65 259.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "560R" (at 120.65 261.62 0)
@@ -6165,7 +6371,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R36") (unit 1)
+          (reference "R48") (unit 1)
         )
       )
     )
@@ -6197,19 +6403,19 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL072") (at 170.815 254 0) (mirror y) (unit 3)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Amplifier_Operational:TL072") (at 171.45 254.635 0) (mirror y) (unit 3)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 8f2473c7-1d46-48e3-8c54-69cc4de69bfa)
-    (property "Reference" "U5" (at 173.99 252.73 0)
+    (property "Reference" "U2" (at 172.085 242.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "TL072" (at 173.99 255.27 0)
+    (property "Value" "TL072" (at 172.085 245.11 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 170.815 254 0)
+    (property "Footprint" "" (at 171.45 254.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 170.815 254 0)
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 171.45 254.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "2" (uuid 714cee9f-03a4-4034-970f-54954e075b03))
@@ -6223,7 +6429,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U5") (unit 3)
+          (reference "U2") (unit 3)
         )
       )
     )
@@ -6284,7 +6490,7 @@
   (symbol (lib_id "Device:R") (at 183.515 190.5 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 92d84b93-a3be-48f1-9c95-8d94ef03ef28)
-    (property "Reference" "R33" (at 183.515 187.96 90)
+    (property "Reference" "R37" (at 183.515 187.96 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100K" (at 183.515 190.5 90)
@@ -6301,7 +6507,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R33") (unit 1)
+          (reference "R37") (unit 1)
         )
       )
     )
@@ -6310,7 +6516,7 @@
   (symbol (lib_id "Device:C") (at 321.945 20.32 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 93fb7cc4-6938-4126-b8f3-5d3859ad6a31)
-    (property "Reference" "C21" (at 321.945 13.97 90)
+    (property "Reference" "C13" (at 321.945 13.97 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100pF" (at 321.945 16.51 90)
@@ -6327,7 +6533,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "C21") (unit 1)
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -6336,7 +6542,7 @@
   (symbol (lib_id "Device:R") (at 168.91 156.845 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 945e6247-9ac9-4ac6-b354-bf931921c6ab)
-    (property "Reference" "R30" (at 168.91 154.305 90)
+    (property "Reference" "R33" (at 168.91 154.305 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100K" (at 168.91 156.845 90)
@@ -6353,7 +6559,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R30") (unit 1)
+          (reference "R33") (unit 1)
         )
       )
     )
@@ -6385,19 +6591,19 @@
     )
   )
 
-  (symbol (lib_id "power:-12V") (at 259.08 258.445 180) (unit 1)
+  (symbol (lib_id "power:-12V") (at 256.54 247.65 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 97badacd-9d37-4a57-bca5-cf6ca2346023)
-    (property "Reference" "#PWR?" (at 259.08 260.985 0)
+    (property "Reference" "#PWR?" (at 256.54 250.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "-12V" (at 259.08 262.89 0)
+    (property "Value" "-12V" (at 256.54 252.095 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 259.08 258.445 0)
+    (property "Footprint" "" (at 256.54 247.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 259.08 258.445 0)
+    (property "Datasheet" "" (at 256.54 247.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bc29669d-dec4-4eac-bf91-f6e5c93d6bd9))
@@ -6433,10 +6639,84 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 339.725 39.37 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 9923f2c0-f3dd-4f09-b854-edbf750dfde4)
+    (property "Reference" "#PWR?" (at 339.725 45.72 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 339.725 43.815 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 339.725 39.37 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 339.725 39.37 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7acedad0-ded9-4c8f-81ee-6bd3022261c5))
+    (instances
+      (project "3320-VCF"
+        (path "/03f11930-f7c0-4ced-9742-79790ca3496b"
+          (reference "#PWR?") (unit 1)
+        )
+      )
+      (project "AS2164-Quad-Exponential-VCA"
+        (path "/0519ab23-91da-40fb-a045-e525f15c4e82"
+          (reference "#PWR?") (unit 1)
+        )
+      )
+      (project "Electric Druid VCDO1"
+        (path "/1a79e409-2950-446e-9b6e-16f6bf0a888d/940513db-8445-4e70-8397-130f22045b59"
+          (reference "#PWR?") (unit 1)
+        )
+        (path "/1a79e409-2950-446e-9b6e-16f6bf0a888d"
+          (reference "#PWR?") (unit 1)
+        )
+      )
+      (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
+        (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
+          (reference "#PWR02") (unit 1)
+        )
+      )
+      (project "3340-VCO"
+        (path "/aedb3b78-1db1-4bb8-b4e7-c509f764608a"
+          (reference "#PWR?") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R") (at 334.645 34.29 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 99b95f9d-d033-462a-ac03-9c80ec497518)
+    (property "Reference" "R45" (at 334.645 31.75 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "100K" (at 334.645 34.29 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 334.645 36.068 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 334.645 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "2" (uuid 21c45644-c9d7-4588-b22e-f31e42b7def7))
+    (pin "1" (uuid e80ae0e1-654f-48eb-8c0c-b8e9cc735602))
+    (instances
+      (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
+        (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
+          (reference "R45") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C") (at 124.46 254 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9d8d4a47-38a2-4183-b19b-965158bdd9d0)
-    (property "Reference" "C16" (at 124.46 247.65 90)
+    (property "Reference" "C17" (at 124.46 247.65 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 124.46 250.19 90)
@@ -6453,7 +6733,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "C16") (unit 1)
+          (reference "C17") (unit 1)
         )
       )
     )
@@ -6544,7 +6824,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR024") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -6558,7 +6838,7 @@
   (symbol (lib_id "Device:C") (at 132.08 254 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9f89c6fa-ba80-489b-8d4a-758f6dc1b994)
-    (property "Reference" "C17" (at 132.08 247.65 90)
+    (property "Reference" "C18" (at 132.08 247.65 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 132.08 250.19 90)
@@ -6575,7 +6855,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "C17") (unit 1)
+          (reference "C18") (unit 1)
         )
       )
     )
@@ -6618,7 +6898,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR025") (unit 1)
+          (reference "#PWR031") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -6632,7 +6912,7 @@
   (symbol (lib_id "Device:R") (at 97.155 92.71 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a0aa90a3-cb47-49d5-aa6e-923af89acdc6)
-    (property "Reference" "R43" (at 97.155 90.17 90)
+    (property "Reference" "R23" (at 97.155 90.17 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 97.155 92.71 90)
@@ -6649,7 +6929,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R43") (unit 1)
+          (reference "R23") (unit 1)
         )
       )
     )
@@ -6692,7 +6972,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -6740,7 +7020,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR028") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -6807,7 +7087,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 118.11 62.23 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a9113fde-0eab-4ccb-b5ac-2ab07d57c256)
-    (property "Reference" "U2" (at 118.11 72.39 0)
+    (property "Reference" "U3" (at 118.11 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 118.11 69.85 0)
@@ -6836,7 +7116,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U2") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -6931,7 +7211,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR049") (unit 1)
+          (reference "#PWR050") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -6945,7 +7225,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 191.77 146.685 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b4a92040-fb7a-4c4d-9b69-63cc9db3805b)
-    (property "Reference" "D5" (at 194.31 145.0975 90)
+    (property "Reference" "D7" (at 194.31 145.0975 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BAT42" (at 194.31 147.6375 90)
@@ -6962,7 +7242,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D5") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -7134,7 +7414,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "C14") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -7182,7 +7462,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -7230,7 +7510,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR041") (unit 1)
+          (reference "#PWR040") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -7244,7 +7524,7 @@
   (symbol (lib_id "Device:R") (at 149.86 245.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bd0b1bf6-8b97-4e46-8510-e4b2cd912fb2)
-    (property "Reference" "R35" (at 149.86 242.57 90)
+    (property "Reference" "R47" (at 149.86 242.57 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "68K" (at 149.86 245.11 90)
@@ -7261,25 +7541,25 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R35") (unit 1)
+          (reference "R47") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C") (at 238.76 254 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 216.535 254.635 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bda9974f-07cc-4bf4-b777-ff3b55123a35)
-    (property "Reference" "C20" (at 234.95 252.73 0)
+    (property "Reference" "C22" (at 218.44 242.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100nF" (at 234.95 255.27 0)
+    (property "Value" "100nF" (at 218.44 245.11 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 239.7252 257.81 0)
+    (property "Footprint" "" (at 217.5002 258.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 238.76 254 0)
+    (property "Datasheet" "~" (at 216.535 254.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2d40d7d2-57a3-4288-aa86-3c29924bf8e7))
@@ -7287,7 +7567,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "C20") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -7371,7 +7651,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "J8") (unit 1)
+          (reference "J9") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -7445,7 +7725,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR08") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -7459,7 +7739,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 191.77 94.615 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c52f2835-7ac9-4571-82f7-5f24d52d1fd6)
-    (property "Reference" "D4" (at 194.945 93.6625 90)
+    (property "Reference" "D6" (at 194.945 93.6625 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "BAT42" (at 194.945 96.2025 90)
@@ -7476,25 +7756,25 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D4") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 222.25 254 0) (unit 5)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 208.28 254.635 0) (unit 5)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid c731382d-e42f-4183-9544-c5573e66df4e)
-    (property "Reference" "U2" (at 220.98 252.73 0)
+    (property "Reference" "U3" (at 204.47 242.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "TL074" (at 220.98 255.27 0)
+    (property "Value" "TL074" (at 204.47 245.11 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 220.98 251.46 0)
+    (property "Footprint" "" (at 207.01 252.095 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 223.52 248.92 0)
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 209.55 249.555 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "3" (uuid f7abe705-b6bf-463e-81a4-3803ce12622b))
@@ -7514,7 +7794,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U2") (unit 5)
+          (reference "U3") (unit 5)
         )
       )
     )
@@ -7575,7 +7855,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 335.28 91.44 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9c6d971-73b3-4366-8de4-fdd16884b248)
-    (property "Reference" "U5" (at 337.82 95.25 0)
+    (property "Reference" "U2" (at 337.82 95.25 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL072" (at 337.82 97.79 0)
@@ -7598,7 +7878,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U5") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -7655,7 +7935,7 @@
   (symbol (lib_id "Device:R") (at 173.99 108.585 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cc35db15-07fa-4d03-a065-4cd604ed14a2)
-    (property "Reference" "R24" (at 171.45 107.315 0)
+    (property "Reference" "R27" (at 171.45 107.315 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100K" (at 171.45 109.855 0)
@@ -7672,7 +7952,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R24") (unit 1)
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -7681,7 +7961,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 184.15 83.185 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cfa2c864-c698-4815-b86e-e765e960dc4b)
-    (property "Reference" "U2" (at 187.96 77.47 0)
+    (property "Reference" "U3" (at 187.96 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 187.96 80.01 0)
@@ -7710,7 +7990,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U2") (unit 3)
+          (reference "U3") (unit 3)
         )
       )
     )
@@ -7753,7 +8033,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -7808,7 +8088,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D10") (unit 1)
+          (reference "D14") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -7857,7 +8137,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "C13") (unit 1)
+          (reference "C14") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -7953,7 +8233,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR022") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -8012,19 +8292,19 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 254.635 246.38 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 252.095 235.585 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d9139838-a742-4235-95b6-37a23b48ac9a)
-    (property "Reference" "#PWR?" (at 254.635 252.73 0)
+    (property "Reference" "#PWR?" (at 252.095 241.935 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 254.635 250.825 0)
+    (property "Value" "GND" (at 252.095 240.03 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 254.635 246.38 0)
+    (property "Footprint" "" (at 252.095 235.585 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 254.635 246.38 0)
+    (property "Datasheet" "" (at 252.095 235.585 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid da105884-6422-4520-9e9f-b3bf96af24c5))
@@ -8049,7 +8329,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR035") (unit 1)
+          (reference "#PWR036") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -8063,7 +8343,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 114.935 193.04 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid da21201c-3a2b-48c4-872a-e5a5bca13f51)
-    (property "Reference" "U3" (at 118.11 200.025 0)
+    (property "Reference" "U4" (at 118.11 200.025 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 118.11 197.485 0)
@@ -8092,7 +8372,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U3") (unit 4)
+          (reference "U4") (unit 4)
         )
       )
     )
@@ -8101,7 +8381,7 @@
   (symbol (lib_id "Device:R") (at 96.52 108.585 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid db0e945e-2220-421d-9577-890432fe5120)
-    (property "Reference" "R42" (at 96.52 106.045 90)
+    (property "Reference" "R26" (at 96.52 106.045 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1M" (at 96.52 108.585 90)
@@ -8118,7 +8398,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R42") (unit 1)
+          (reference "R26") (unit 1)
         )
       )
     )
@@ -8127,7 +8407,7 @@
   (symbol (lib_id "Device:R") (at 132.08 154.305 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid db355aca-f9c6-46bb-aad4-09300a5c8010)
-    (property "Reference" "R28" (at 132.08 151.765 90)
+    (property "Reference" "R31" (at 132.08 151.765 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "6.8K" (at 132.08 154.305 90)
@@ -8144,7 +8424,55 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R28") (unit 1)
+          (reference "R31") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 261.62 273.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid dda5416e-8ece-4544-967e-ea2e4831ac3a)
+    (property "Reference" "#PWR?" (at 261.62 279.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 261.62 277.495 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 261.62 273.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 261.62 273.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c0ed46af-7e02-45da-a302-77c169fe1fee))
+    (instances
+      (project "3320-VCF"
+        (path "/03f11930-f7c0-4ced-9742-79790ca3496b"
+          (reference "#PWR?") (unit 1)
+        )
+      )
+      (project "AS2164-Quad-Exponential-VCA"
+        (path "/0519ab23-91da-40fb-a045-e525f15c4e82"
+          (reference "#PWR?") (unit 1)
+        )
+      )
+      (project "Electric Druid VCDO1"
+        (path "/1a79e409-2950-446e-9b6e-16f6bf0a888d/940513db-8445-4e70-8397-130f22045b59"
+          (reference "#PWR?") (unit 1)
+        )
+        (path "/1a79e409-2950-446e-9b6e-16f6bf0a888d"
+          (reference "#PWR?") (unit 1)
+        )
+      )
+      (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
+        (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
+          (reference "#PWR048") (unit 1)
+        )
+      )
+      (project "3340-VCO"
+        (path "/aedb3b78-1db1-4bb8-b4e7-c509f764608a"
+          (reference "#PWR?") (unit 1)
         )
       )
     )
@@ -8293,19 +8621,45 @@
     )
   )
 
-  (symbol (lib_id "power:+12V") (at 195.58 246.38 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 231.775 254.635 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid e1dec3ad-9eeb-4a9e-8b22-b1d1055979cf)
+    (property "Reference" "C23" (at 233.68 242.57 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "100nF" (at 233.68 245.11 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "" (at 232.7402 258.445 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 231.775 254.635 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 445681f1-59ee-48fc-a894-29d8b5f85229))
+    (pin "2" (uuid 8e44f032-b073-4bb6-9af4-5ea58ab21338))
+    (instances
+      (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
+        (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
+          (reference "C23") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+12V") (at 194.945 241.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e3c95b47-0455-42e3-ae9f-9814d68b01a2)
-    (property "Reference" "#PWR?" (at 195.58 250.19 0)
+    (property "Reference" "#PWR?" (at 194.945 245.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+12V" (at 195.58 241.3 0)
+    (property "Value" "+12V" (at 194.945 236.22 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 195.58 246.38 0)
+    (property "Footprint" "" (at 194.945 241.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 195.58 246.38 0)
+    (property "Datasheet" "" (at 194.945 241.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0d1c5279-192b-4bff-b194-66d2c3c48778))
@@ -8330,7 +8684,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR036") (unit 1)
+          (reference "#PWR037") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -8378,7 +8732,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR043") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -8537,6 +8891,38 @@
     )
   )
 
+  (symbol (lib_id "Amplifier_Operational:TL072") (at 347.345 36.83 0) (mirror x) (unit 2)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid e8d1c19d-40de-4a95-93dc-b797a2a10fa0)
+    (property "Reference" "U5" (at 351.79 41.91 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "TL072" (at 351.79 39.37 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 347.345 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 347.345 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dd91dcba-c648-4e4d-af1c-e79ab6dbb2ff))
+    (pin "6" (uuid bad2c0c7-815b-4193-881a-f5de4c4ded76))
+    (pin "5" (uuid 76264e1a-4e49-4ca4-8686-c9cc54f051e0))
+    (pin "3" (uuid 31855d30-241b-47d4-87a4-da24b0ccab3f))
+    (pin "2" (uuid 49b5482a-4ab2-4b26-a9cf-b47e76dc5256))
+    (pin "8" (uuid 8d2cf64e-7aa0-497a-8f20-9482b1406674))
+    (pin "7" (uuid 02db22cb-4faf-4868-8b5b-6ed4406aa798))
+    (pin "4" (uuid 99e84778-a8c7-47c9-8226-779ff91584fd))
+    (instances
+      (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
+        (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
+          (reference "U5") (unit 2)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 71.12 264.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e92f4812-8f05-409f-a058-d894e9ddb14a)
@@ -8574,7 +8960,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR045") (unit 1)
+          (reference "#PWR044") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -8588,7 +8974,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 118.11 154.305 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e968f0c7-abe2-417b-8632-c0668bc9708b)
-    (property "Reference" "U3" (at 118.11 164.465 0)
+    (property "Reference" "U4" (at 118.11 164.465 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 118.11 161.925 0)
@@ -8617,7 +9003,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U3") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -8687,7 +9073,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR031") (unit 1)
+          (reference "#PWR030") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -8761,7 +9147,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR023") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -8857,7 +9243,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR042") (unit 1)
+          (reference "#PWR041") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -8871,7 +9257,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 184.15 151.765 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f2a7bb0e-32b8-49fd-9777-0e35555e86cf)
-    (property "Reference" "D6" (at 184.4675 145.415 0)
+    (property "Reference" "D8" (at 184.4675 145.415 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAT42" (at 184.4675 147.955 0)
@@ -8888,25 +9274,25 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "D6") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C") (at 168.275 254 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 168.275 254.635 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f332e9f6-0d57-4743-9f94-3a8ddc693d16)
-    (property "Reference" "C22" (at 164.465 252.73 0)
+    (property "Reference" "C19" (at 170.18 242.57 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100nF" (at 164.465 255.27 0)
+    (property "Value" "100nF" (at 170.18 245.11 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 169.2402 257.81 0)
+    (property "Footprint" "" (at 169.2402 258.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 168.275 254 0)
+    (property "Datasheet" "~" (at 168.275 254.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4d68c3bb-5bfd-45a7-a2f4-a7977fb3aea4))
@@ -8914,7 +9300,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "C22") (unit 1)
+          (reference "C19") (unit 1)
         )
       )
     )
@@ -9023,7 +9409,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 184.15 175.26 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fbc5415b-524a-401a-885b-b46ee76bdd09)
-    (property "Reference" "U3" (at 187.96 169.545 0)
+    (property "Reference" "U4" (at 187.96 169.545 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 187.96 172.085 0)
@@ -9052,7 +9438,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U3") (unit 3)
+          (reference "U4") (unit 3)
         )
       )
     )
@@ -9061,7 +9447,7 @@
   (symbol (lib_id "Device:R") (at 184.15 142.875 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fc38f9c0-02e7-4a59-836b-19f639e7bb28)
-    (property "Reference" "R25" (at 184.15 140.335 90)
+    (property "Reference" "R28" (at 184.15 140.335 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "200K" (at 184.15 142.875 90)
@@ -9078,7 +9464,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "R25") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -9121,7 +9507,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR021") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -9169,7 +9555,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR046") (unit 1)
+          (reference "#PWR045") (unit 1)
         )
       )
       (project "3340-VCO"
@@ -9183,7 +9569,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 334.01 176.53 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fda5cdc5-8590-48b8-a3db-74f5490a61c0)
-    (property "Reference" "U5" (at 337.185 179.705 0)
+    (property "Reference" "U2" (at 337.185 179.705 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL072" (at 337.185 182.245 0)
@@ -9206,7 +9592,7 @@
     (instances
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "U5") (unit 2)
+          (reference "U2") (unit 2)
         )
       )
     )
@@ -9249,7 +9635,7 @@
       )
       (project "Eurorack-AS3330-Dual-Lin-Exp-VCA"
         (path "/7e0f364c-4839-48e2-a5ac-184d21827e3d"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
       (project "3340-VCO"
