@@ -104,7 +104,7 @@ Refer to the datasheet diagram which I have drawn for the commentary below. I to
 
 What's available for builders, and what's still on the TODO list:
 
-- [x] Schematic PDF (latest Rev 0.1.7) — [AS3330-Dual-Linear-Exponential-VCA-Schematic-Rev0.1.7.pdf](schematic%20pdfs/AS3330-Dual-Linear-Exponential-VCA-Schematic-Rev0.1.7.pdf)
+- [x] Schematic PDF (latest Rev 0.1.7) — [AS3330-Dual-Linear-Exponential-VCA-Schematic-Rev0.1.7.pdf](Schematic%20PDFs/AS3330-Dual-Linear-Exponential-VCA-Schematic-Rev0.1.7.pdf)
 - [x] KiCad source files — [kicad/](kicad/)
 - [ ] Gerber files for PCB fabrication — *not yet exported — generate from kicad/ before sending to a fab*
 - [ ] Bill of materials (BOM) — *not yet exported*
